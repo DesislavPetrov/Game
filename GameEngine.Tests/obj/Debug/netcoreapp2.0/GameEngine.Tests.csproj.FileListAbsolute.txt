@@ -1,0 +1,16 @@
+C:\Users\WinPC\source\repos\Game\GameEngine.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\WinPC\source\repos\Game\GameEngine.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\WinPC\source\repos\Game\GameEngine.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\WinPC\source\repos\Game\GameEngine.Tests\bin\Debug\netcoreapp2.0\GameEngine.Tests.deps.json
+C:\Users\WinPC\source\repos\Game\GameEngine.Tests\bin\Debug\netcoreapp2.0\GameEngine.Tests.runtimeconfig.json
+C:\Users\WinPC\source\repos\Game\GameEngine.Tests\bin\Debug\netcoreapp2.0\GameEngine.Tests.runtimeconfig.dev.json
+C:\Users\WinPC\source\repos\Game\GameEngine.Tests\bin\Debug\netcoreapp2.0\GameEngine.Tests.dll
+C:\Users\WinPC\source\repos\Game\GameEngine.Tests\bin\Debug\netcoreapp2.0\GameEngine.Tests.pdb
+C:\Users\WinPC\source\repos\Game\GameEngine.Tests\bin\Debug\netcoreapp2.0\GameEngine.dll
+C:\Users\WinPC\source\repos\Game\GameEngine.Tests\bin\Debug\netcoreapp2.0\GameEngine.pdb
+C:\Users\WinPC\source\repos\Game\GameEngine.Tests\obj\Debug\netcoreapp2.0\GameEngine.Tests.csprojResolveAssemblyReference.cache
+C:\Users\WinPC\source\repos\Game\GameEngine.Tests\obj\Debug\netcoreapp2.0\GameEngine.Tests.csproj.CoreCompileInputs.cache
+C:\Users\WinPC\source\repos\Game\GameEngine.Tests\obj\Debug\netcoreapp2.0\GameEngine.Tests.AssemblyInfoInputs.cache
+C:\Users\WinPC\source\repos\Game\GameEngine.Tests\obj\Debug\netcoreapp2.0\GameEngine.Tests.AssemblyInfo.cs
+C:\Users\WinPC\source\repos\Game\GameEngine.Tests\obj\Debug\netcoreapp2.0\GameEngine.Tests.dll
+C:\Users\WinPC\source\repos\Game\GameEngine.Tests\obj\Debug\netcoreapp2.0\GameEngine.Tests.pdb

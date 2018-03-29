@@ -1,0 +1,9 @@
+C:\Users\WinPC\source\repos\Game\GameEngine\bin\Debug\netcoreapp2.0\GameEngine.deps.json
+C:\Users\WinPC\source\repos\Game\GameEngine\bin\Debug\netcoreapp2.0\GameEngine.dll
+C:\Users\WinPC\source\repos\Game\GameEngine\bin\Debug\netcoreapp2.0\GameEngine.pdb
+C:\Users\WinPC\source\repos\Game\GameEngine\obj\Debug\netcoreapp2.0\GameEngine.csprojResolveAssemblyReference.cache
+C:\Users\WinPC\source\repos\Game\GameEngine\obj\Debug\netcoreapp2.0\GameEngine.csproj.CoreCompileInputs.cache
+C:\Users\WinPC\source\repos\Game\GameEngine\obj\Debug\netcoreapp2.0\GameEngine.AssemblyInfoInputs.cache
+C:\Users\WinPC\source\repos\Game\GameEngine\obj\Debug\netcoreapp2.0\GameEngine.AssemblyInfo.cs
+C:\Users\WinPC\source\repos\Game\GameEngine\obj\Debug\netcoreapp2.0\GameEngine.dll
+C:\Users\WinPC\source\repos\Game\GameEngine\obj\Debug\netcoreapp2.0\GameEngine.pdb
